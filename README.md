@@ -36,8 +36,6 @@ Toute la page est modifiable facilement et rapidement (couleurs, polices...) en 
 | HTML5           | Visual Studio Code |
 | CSS3            | Git/GitHub         |
 
-© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributeurs
-
 ***
 
 #### 📝 &nbsp; License

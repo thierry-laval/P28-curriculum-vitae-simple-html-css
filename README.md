@@ -23,6 +23,10 @@ Le projet 28 consiste à afficher une page web avec un résumé professionnel ou
 * Création d'une page html.
 * Création du style en css.
 
+https://thierry-laval.github.io/P28-curriculum-vitae-simple-html-css/
+
+Toute la page est modifiable facilement et rapidement (couleurs, polices...) en restant responsive.
+
 ***
 
 #### 📦  &nbsp; Utilisé dans ce projet
